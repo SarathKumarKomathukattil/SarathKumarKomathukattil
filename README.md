@@ -12,7 +12,7 @@ I build **production-oriented AI/ML systems** across MLOps, GenAI, data engineer
 - 🤖 Working with **RAG, LangGraph agents, multimodal AI, and tool-calling systems**
 - ⚡ Building distributed data pipelines with **Spark, PySpark, Delta Lake, and Azure Event Hubs**
 - 🧠 Experience across **machine learning, deep learning, robotics, and software engineering**
-- 🎓 MSc Mechatronic Systems — **Distinction**, Kingston University
+- 🎓 MSc Mechatronic Systems 
 
 
 ---
