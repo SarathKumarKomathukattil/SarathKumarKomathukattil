@@ -1,4 +1,4 @@
-# Hi, I'm Sarath Kumar Komathukattil 👋
+# Hi, I'm Sarath 👋
 
 ### AI/ML Engineer 
 
