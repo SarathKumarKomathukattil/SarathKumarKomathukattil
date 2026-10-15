@@ -13,7 +13,7 @@ I build **production-oriented AI/ML systems** across MLOps, GenAI, data engineer
 - ⚡ Building distributed data pipelines with **Spark, PySpark, Delta Lake, and Azure Event Hubs**
 - 🧠 Experience across **machine learning, deep learning, robotics, and software engineering**
 - 🎓 MSc Mechatronic Systems — **Distinction**, Kingston University
-- 🇨🇦 Canadian Permanent Resident
+
 
 ---
 
