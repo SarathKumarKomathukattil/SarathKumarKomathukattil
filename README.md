@@ -47,13 +47,6 @@ Explore my work across **MLOps, GenAI, data engineering, and computer vision**:
 
 ---
 
-## 🏅 Certifications
-
-- **Microsoft Certified: Machine Learning Operations Engineer Associate (AI-300)**
-- **Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)**
-- **Hugging Face AI Agents Course — Certificate of Excellence**
-
----
 
 ## 📫 Connect
 
