@@ -1,6 +1,6 @@
 # Hi, I'm Sarath Kumar Komathukattil 👋
 
-### AI/ML Engineer | MLOps | GenAI | Azure | Databricks
+### AI/ML Engineer 
 
 ---
 
